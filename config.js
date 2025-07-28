@@ -23,9 +23,9 @@ PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
 MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.ibb.co/j9G5tmNM/shaban-md.jpg",
 // add custom menu and mention reply image url   
-BOT_NAME: process.env.BOT_NAME || "SALEEM JANI V5",
+BOT_NAME: process.env.BOT_NAME || "𝐇𝐀𝐌𝐙𝐀-𝐌𝐃",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "SHABAN-MD",
+STICKER_NAME: process.env.STICKER_NAME || "𝐇𝐀𝐌𝐙𝐀-𝐌𝐃",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -41,7 +41,7 @@ DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ Sʜ�
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/tasodv.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *SHABAN-MD*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *𝐇𝐀𝐌𝐙𝐀-𝐌𝐃*⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
